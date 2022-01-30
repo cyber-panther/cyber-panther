@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @cyber-panther
-- 🌱 I’m currently learning computer engineering
+- 🌱 I’m currently learning computer engineering from Deakin University
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 👀 I’m interested in ...--->
