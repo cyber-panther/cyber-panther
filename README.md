@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @cyber-panther
-- 🌱 I’m currently learning computer engineering from Deakin University
+- 👋 Hi, I’m Agrim Gautam
+- 🌱 I’m a Software engineering Graduate from Deakin University
 <!--- - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 - 👀 I’m interested in ...--->
